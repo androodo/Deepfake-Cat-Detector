@@ -91,7 +91,7 @@ pip install torch torchvision scikit-learn matplotlib pandas jupyter
 jupyter notebook
 ```
 
-2. **Open and run `hw2.ipynb`:**
+2. **Open and run `deepfake-cat-detector.ipynb`:**
    - The notebook contains all code and explanations
    - Run cells sequentially to reproduce results
    - Modify hyperparameters as needed for experimentation
