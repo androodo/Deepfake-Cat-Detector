@@ -122,5 +122,13 @@ You can modify the neural network architecture by adjusting:
 - Learning rates and optimization parameters
 - Early stopping patience
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
 ---
 
