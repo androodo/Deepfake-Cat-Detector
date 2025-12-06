@@ -81,7 +81,7 @@ pip install torch torchvision scikit-learn matplotlib pandas jupyter
 ```
 
 3. **Download the dataset:**
-   - Download `hw2_data.pt` from the provided source
+   - Download `data.pt` from the provided source
    - Place it in the project root directory
 
 ### Usage
