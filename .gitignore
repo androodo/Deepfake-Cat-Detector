@@ -15,10 +15,9 @@ ENV/
 
 # PyTorch
 *.pth
-*.pt
-!data.pt  # Keep the data file if needed, but typically data should be in .gitignore
-# Uncomment the line below if you don't want to track data.pt
-# data.pt
+# Data files - uncomment to ignore data.pt
+# *.pt
+# !data.pt  # Keep the data file if needed
 
 # IDE
 .vscode/
