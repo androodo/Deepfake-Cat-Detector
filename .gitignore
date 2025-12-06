@@ -15,9 +15,7 @@ ENV/
 
 # PyTorch
 *.pth
-# Data files - uncomment to ignore data.pt
-# *.pt
-# !data.pt  # Keep the data file if needed
+*.pt
 
 # IDE
 .vscode/
