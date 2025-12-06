@@ -71,7 +71,7 @@ This project demonstrates how traditional machine learning techniques can be eff
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/Deepfake-Cat-Detector.git
+git clone https://github.com/androodo/Deepfake-Cat-Detector.git
 cd Deepfake-Cat-Detector
 ```
 
