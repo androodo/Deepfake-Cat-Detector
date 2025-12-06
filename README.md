@@ -77,7 +77,12 @@ cd Deepfake-Cat-Detector
 
 2. **Install dependencies:**
 ```bash
-pip install torch torchvision scikit-learn matplotlib pandas jupyter
+pip install -r requirements.txt
+```
+
+Or install as a package:
+```bash
+pip install -e .
 ```
 
 3. **Download the dataset:**
