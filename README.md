@@ -16,9 +16,9 @@ The project includes:
 ## Key Features
 
 ### 🧠 Neural Network Architecture
-- **2-layer MLP** with 128 and 64 hidden units
+- **2-layer MLP** with 128 and 64 hidden units (configurable)
 - ReLU activation functions for non-linearity
-- Dropout and weight decay for regularization
+- Weight decay for regularization
 - Binary classification output (real/fake)
 
 ### 📊 Robust Evaluation
