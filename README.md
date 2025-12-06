@@ -80,11 +80,6 @@ cd Deepfake-Cat-Detector
 pip install -r requirements.txt
 ```
 
-Or install as a package:
-```bash
-pip install -e .
-```
-
 3. **Download the dataset:**
    - Download `data.pt` from the provided source
    - Place it in the project root directory
@@ -121,14 +116,6 @@ You can modify the neural network architecture by adjusting:
 - Activation functions
 - Learning rates and optimization parameters
 - Early stopping patience
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ---
 
